@@ -55,33 +55,15 @@ export const Footer = () => {
             <div className="flex items-center">
               <i className="fa fa-instagram text-white mr-1"></i>
               <a
-                href="https://www.instagram.com/chavhansudhir/?hl=en"
+                href="https://www.instagram.com/vikashgupta_84?igsh=MXFwbm44YTF6dmp3bg=="
                 className="no-underline text-white text-xs block xl:text-sm"
                 target="_blank"
               >
                 Instagram
               </a>
             </div>
-            <div className="flex items-center">
-              <i className="fa fa-linkedin text-white mr-1"></i>
-              <a
-                href="https://www.linkedin.com/in/sudhirpc/"
-                className="no-underline text-white text-xs block xl:text-sm"
-                target="_blank"
-              >
-                LinkedIn
-              </a>
-            </div>
-            <div className="flex items-center">
-              <i className="fa fa-facebook text-white mr-1"></i>
-              <a
-                href="https://www.facebook.com/sudhir.chavhan.583"
-                className="no-underline text-white text-xs block xl:text-sm"
-                target="_blank"
-              >
-                Facebook
-              </a>
-            </div>
+          
+         
           </div>
           <div className="footer-col-4 w-6/12 xl:w-full space-y-4 mr-2 md:mr-0">
             <h3
@@ -100,7 +82,7 @@ export const Footer = () => {
                 style={{ marginRight: "2px" }}
               ></i>
               <span className="text-white text-xs xl:text-sm">
-                Yavatmal,Maharashtra
+               Kanpur
               </span>
             </p>
             <p className="flex items-center my-1">
@@ -109,7 +91,7 @@ export const Footer = () => {
                 style={{ marginRight: "2px" }}
               ></i>
               <span className="text-white text-xs xl:text-sm">
-                sudhirchavhan100@gmail.com
+              smartutkarsh2003@gmail.com
               </span>
             </p>
             <p className="flex items-center my-1">
@@ -118,14 +100,14 @@ export const Footer = () => {
                 style={{ marginRight: "2px" }}
               ></i>
               <span className="text-white text-xs xl:text-sm">
-                +91 7774850751
+                +91 9044335337
               </span>
             </p>
           </div>
         </div>
       </div>
       <p className="text-white text-center mt-4 pb-4">
-        MERN Quiz App Designed and Developed By Sudhir P Chavhan.
+        MERN Quiz App Designed and Developed By Group No 12.
       </p>
     </div>
   );

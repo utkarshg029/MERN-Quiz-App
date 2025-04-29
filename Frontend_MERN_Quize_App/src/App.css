@@ -1,5 +1,6 @@
  .App{
-  background-color:linear-gradient(rgb(186, 54, 54), rgb(206, 21, 21), rgb(171, 129, 129))
+  background-color: black;
+  /* background-color:linear-gradient(rgb(186, 54, 54), rgb(206, 21, 21), rgb(171, 129, 129)) */
 } 
 /* -----------------topicquize page------------- */
 .topicdiv{
